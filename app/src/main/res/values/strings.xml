@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CounterApp</string>
+    <string name="ic_counter_content_description">Counter icon</string>
+    <string name="number_placeholder">7</string>
+    <string name="starting_number_placeholder">Enter starting number!</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_interval">Generate a random starting number</string>
+    <string name="button_increment">+</string>
+    <string name="button_decrement">-</string>
+    <string name="Interval">1</string>
+    <string name="operation">Your operations will be displayed here!</string>
+
+</resources>
